@@ -1,6 +1,11 @@
 package calculadora01;
 
 public class Calculadora01 {
+
+/**
+ * Información sobre la clase Calculadora.
+ * @author enol
+ */
 	
 	public int sumar(int a, int b) { 
 		return a + b;
