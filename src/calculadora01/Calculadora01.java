@@ -6,6 +6,11 @@ public class Calculadora01 {
  * Información sobre la clase Calculadora.
  * @author enol
  */
+
+/**
+ * @version 
+ */
+
 	
 	public int sumar(int a, int b) { 
 		return a + b;
